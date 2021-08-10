@@ -8,7 +8,7 @@ Concepto clave dentro del contexto de reconocimiento de patrones y aprendizaje a
 
 #### Ejemplo 1
 
-![Cajas](../Z-IMG/PC/1.png)
+![Cajas](../Z-IMG/PC/1.PNG)
 
 Se elige al azar primero una caja y luego, de la caja seleccionada se escoge al azar una fruta. Se observa y se retorna a su caja de origen.
 
@@ -45,13 +45,13 @@ Considere 2 variables aleatorias:
 - $N$ ensayos que muestrean tanto a $X$ como a $Y$
 - Número de ensayos con $X=x_i$ y $Y=y_j$ es un $n_{ij}$
 
-![Diagrama1](../Z-IMG/PC/2.png)
+![Diagrama1](../Z-IMG/PC/2.PNG)
 
 *Probabilidad Conjunta* $P(X=x_i, Y=y_j) = \frac{n_{ij}}{N}$
 
 *Probabilidad Marginal* $P(X=x_i) = \frac{c_i}{N}$
 
-![Diagrama2](../Z-IMG/PC/3.png)
+![Diagrama2](../Z-IMG/PC/3.PNG)
 
 Dado que:
 
@@ -92,7 +92,7 @@ $$p(X) = \sum_Yp(X|Y)p(Y)$$
 
 Se tiene una muestra de 60 datos ($N$):
 
-![Ejemplo2](../Z-IMG/PC/4.png)
+![Ejemplo2](../Z-IMG/PC/4.PNG)
 
 - ¿Cuántos valores posibles hay para $X$? = 9
 - ¿Cuántos valores posibles hay para $Y$? = 2
@@ -106,8 +106,8 @@ Se tiene una muestra de 60 datos ($N$):
 |$Y=1$|3|6|8|8|5|3|1|0|0|34|
 |Totales|3|6|8|9|9|8|9|6|2|60|
 
-![Ejemplo2](../Z-IMG/PC/5.png)
-![Ejemplo2](../Z-IMG/PC/6.png)
+![Ejemplo2](../Z-IMG/PC/5.PNG)
+![Ejemplo2](../Z-IMG/PC/6.PNG)
 
 ***Importante***: Tener en cuenta que
 
